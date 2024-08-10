@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RJdatascientist
 - 👀 I’m interested in Data related activitties
-- 🌱 I’m currently learning Data science and analytics
+- 🌱 I’m currently working on different Data science and analytics projects.
 - 💞️ I’m looking to collaborate on Time management
 - 📫 How to reach me rushikesh.jagtap1711@gmail.com
 
